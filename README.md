@@ -1,1 +1,1 @@
-# bootstrap4
+Dream Homes is a beautifully crafted website designed for those looking to explore different home styles and luxurious properties. Built with HTML, CSS, and Bootstrap, this site offers a modern and user-friendly experience to discover featured homes, architectural designs, and home styling inspirations. Whether you are searching for a cozy cottage or a contemporary villa, Dream Homes presents an elegant way to browse through options. 
